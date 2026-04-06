@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58EB87&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%24+sudo+su+--+luca;Building+the+future+%7C+one+commit+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=DA40FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%24+sudo+su+--+luca;Building+the+future+%7C+one+commit+at+a+time" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,9 +12,9 @@
 
 <div align="center">
 
-<a href="https://texte.weltenknauf.com"><img src="https://img.shields.io/badge/Blog-weltenknauf.com-58eb87?style=for-the-badge&logo=firefox&logoColor=white" alt="Blog" /></a>&nbsp;
-<a href="https://github.com/sudo-litigator"><img src="https://img.shields.io/badge/GitHub-sudo--litigator-58eb87?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=sudo-litigator&style=for-the-badge&color=58eb87&label=Profile+Views" alt="Profile Views" />
+<a href="https://texte.weltenknauf.com"><img src="https://img.shields.io/badge/Blog-weltenknauf.com-DA40FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Blog" /></a>&nbsp;
+<a href="https://github.com/sudo-litigator"><img src="https://img.shields.io/badge/GitHub-sudo--litigator-DA40FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=sudo-litigator&style=for-the-badge&color=DA40FF&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -117,12 +117,12 @@ class SudoLitigator:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudo-litigator&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58eb87&text_color=c9d1d9&icon_color=58eb87&ring_color=58eb87&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sudo-litigator&hide_border=true&background=0D1117&ring=58EB87&fire=58EB87&currStreakLabel=58EB87&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sudo-litigator&show_icons=true&hide_border=true&bg_color=0d1117&title_color=DA40FF&text_color=c9d1d9&icon_color=DA40FF&ring_color=DA40FF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sudo-litigator&hide_border=true&background=0D1117&ring=DA40FF&fire=DA40FF&currStreakLabel=DA40FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-litigator&layout=compact&hide_border=true&bg_color=0d1117&title_color=58eb87&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-litigator&layout=compact&hide_border=true&bg_color=0d1117&title_color=DA40FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="42%" />
 
 </div>
 
@@ -134,7 +134,7 @@ class SudoLitigator:
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sudo-litigator&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=sudo-litigator&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" width="100%" />
 
 </div>
 
@@ -146,7 +146,7 @@ class SudoLitigator:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudo-litigator&bg_color=0d1117&color=58eb87&line=58eb87&point=ffffff&area_color=58eb87&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudo-litigator&bg_color=0d1117&color=DA40FF&line=DA40FF&point=ffffff&area_color=9B30FF&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -175,6 +175,6 @@ $ echo "Thanks for visiting! Feel free to explore my repos."
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58eb87&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A3ADB,100:DA40FF&height=80&section=footer" width="100%" />
 
 </div>
